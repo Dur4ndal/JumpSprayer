@@ -15,4 +15,7 @@ pip3 install -r requirements.txt
 1. Clone this repository
 2. Move ".env.example" to ".env" and set the enviroment variables to their correct values
 
+### TODO
 
+- [ ] Fix current implementation to work multithreading
+- [ ] Fix README by explaining how to spawn JumpCloud api-keys
